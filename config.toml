@@ -11,14 +11,18 @@ highlight_code = true
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = true
 
+
+title = "O' Blog"
+description = "Documenting everything learnt so far .."
+
 [extra]
 # Put all your custom variables here
 hyde_sticky = true
 hyde_reverse = false
 hyde_theme = "theme-base-0f"
 hyde_links = [
-    {url = "https://google.com", name = "About"},
-    {url = "https://google.com", name = "Blog"},
+    {url = "/about", name = "About"},
+    {url = "#", name = "CV"},
+    {url = "https://github.com/osleonard", name = "Github"},
+    {url = "https://twitter.com/osleonard_", name = "Twitter"},
 ]
-
-show_twitter = true
