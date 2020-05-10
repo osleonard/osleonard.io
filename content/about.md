@@ -4,15 +4,14 @@ description = "Hello World"
 date = 2020-05-01
 +++
 
-Hello and welcome to my blog. Im Olushola a software engineer from Nigeria, currently  live with my family in the Netherlands and work for Lunatech Labs. 
+Hello and welcome to my blog. Im Olushola a software engineer from Nigeria, I currently live with my family in the Netherlands and work at [Lunatech Labs](https://www.lunatech.com/).
 
-I work with primary with Scala day to day, interested in Distributed systems and cloud native application.
-
-This is an attempt to write more about different technologies and lessons learnt from my day to day, hope it helps someone out there.
+I code primarily in Scala day to day, interested in Distributed systems, cloud native application and automation.
 
 This blog is built with zola written in rust, hope to evolve the look and feel overtime.
 
-If you have any questions you can reach out to me by any of the means below 
+You can reach out to me by any of the means below.
 
-osleonard on Github \
-osleonard on twitter 
+[*_Github_*](https://github.com/osleonard)\
+[*_Twitter_*](https://twitter.com/osleonard_)\
+[*_LinkedIn_*](https://www.linkedin.com/in/olushola-akinmolayan-75b93570/)
